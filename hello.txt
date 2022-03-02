@@ -13,4 +13,4 @@ hello edison! hello git!
 hello edison! hello git!
 hello edison! hello git!
 hello edison! hello git!
-hello edison! hello git!
+hello edison! hello git!hot-fix test
